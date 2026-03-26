@@ -146,11 +146,6 @@
 
 本系列教程同步更新于：
 
-[GitHub](https://github.com/jiasuo111/AI-Learning-From-Zero)
-[CSDN](https://blog.csdn.net/Sb3111666666)
-
-本系列教程同步更新于：
-
 * **GitHub**：[https://github.com/jiasuo111/AI-Learning-From-Zero](https://github.com/jiasuo111/AI-Learning-From-Zero)
 * **CSDN**：[https://blog.csdn.net/Sb3111666666](https://blog.csdn.net/Sb3111666666)
 ---
